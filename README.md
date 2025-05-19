@@ -1,12 +1,18 @@
-# Power BI – Accounts Receivable Dashboard
+/PowerBI/
+  - AR_Dashboard.pbix
+  - README.md
 
-📊 This dashboard visualises £2M+ AR portfolio across multiple customers using Power BI.
+/SQL/
+  - ledger_queries.sql
+  - overdue_report.sql
+  - README.md
 
-**Features:**
-- DAX-based aging buckets (0–30, 31–60, 61+ days)
-- Dynamic filters by region, customer, and status
-- Trendline of overdue balances over time
+/Excel_VBA/
+  - invoice_generator.xlsm
+  - README.md
 
-🔧 Tools Used: Power BI, DAX, Power Query
+/Python/
+  - ar_alert_script.py
+  - README.md
 
-🎯 Outcome: Reduced manual reporting by 60%, improved visibility for finance leadership.
+/README.md (main file)
